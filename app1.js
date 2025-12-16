@@ -1,4 +1,4 @@
-// app9_cola.js
+// app1
 
 const solicitudes = [
     { id: 101, nombre: "Ana", tiempo_ms: 1500 },

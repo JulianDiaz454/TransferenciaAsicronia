@@ -1,4 +1,4 @@
-// app10_paralelo.js
+// app2
 
 const paquetes = [
     { id: "P-001", destino: "Centro", tiempo_ms: 2500, falla: false },
